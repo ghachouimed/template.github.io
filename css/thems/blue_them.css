@@ -1,0 +1,57 @@
+.navbar-inverse .navbar-brand span{
+     color: #2acec2;
+}
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > li > a:hover, 
+.navbar-inverse .navbar-nav > li > a:focus,
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus{
+	background: #2acec2;
+}
+.navbar-inverse .dropdown-menu{
+	border-top-color: #2acec2;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus{
+	background: #2acec2;
+}
+.tool-box .color-option{
+	border: 2px solid #2acec2;
+}
+.tool-box .fa {
+    background:#2acec2;
+}
+.about h1 span{
+	color: #2acec2;
+}
+.testimonial .carousel-indicators .active{
+	border:3px solid #2acec2;
+}
+.testimonial span{
+	color:#2acec2;
+}
+.our_team .person h4 {
+	color:#2acec2;
+}
+.subscribe .form-inline .btn {
+    background-color: #2acec2;
+    border-color: #2acec2;
+}
+.our-skills .skills-info i{
+	color:#2acec2
+}
+.contact-us form .btn{
+	background: #1ab0a5;
+    border-color: #0e9bcc;
+}
+.contact-us form .btn:hover{
+	background: #2acec2;
+}
+.footer .copy span{
+	color:#2acec2;
+}
+.footer h3{
+	color: #2acec2;
+}

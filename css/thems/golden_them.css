@@ -1,0 +1,62 @@
+.navbar-inverse .navbar-brand span{
+     color: #bac00f;
+}
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > li > a:hover, 
+.navbar-inverse .navbar-nav > li > a:focus,
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus{
+	background: #bac00f;
+}
+.navbar-inverse .dropdown-menu{
+	border-top-color: #bac00f;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus{
+	background: #bac00f;
+}
+.tool-box .color-option{
+	border: 2px solid #bac00f;
+}
+.tool-box .fa {
+    background:#bac00f;
+}
+.about h1 span{
+	color: #bac00f;
+}
+.testimonial .carousel-indicators .active{
+	border:3px solid #bac00f;
+}
+.our_team .person h4 {
+	color:#bac00f;
+}
+.subscribe .form-inline .btn{
+	background-color: #5b6c0b;
+    border-color: #7b8f1c;
+}
+.subscribe .form-inline .btn:hover {
+    background-color: #888b34;
+    border-color: #5b681d;
+}
+.testimonial span{
+	color:#bac00f;
+}
+.our-skills .skills-info i{
+	color:#bac00f
+}
+.contact-us form .btn{
+	background-color: #5b6c0b;
+    border-color: #7b8f1c;
+}
+.contact-us form .btn:hover{
+	background-color: #888b34;
+    border-color: #5b681d;
+}
+.footer .copy span{
+	color:#bac00f;
+}
+.footer h3{
+	color: #bac00f;
+}

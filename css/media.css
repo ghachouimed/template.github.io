@@ -1,0 +1,123 @@
+/*=========={Smart Phones And Tblets}============*/
+
+@media(max-width:767px){
+    .navbar-fixed-top .navbar-collapse, 
+	.navbar-fixed-bottom .navbar-collapse{
+		max-height:none;
+	}
+	.dropdown-menu .divider{
+		margin:0;
+	}
+	.navbar-nav .open .dropdown-menu{
+		margin-top:-5;
+		margin-bottom:-5;
+	}
+	.navbar-nav > li > a, .navbar-nav .open .dropdown-menu > li > a,
+	.navbar-nav .open .dropdown-menu .dropdown-header{
+		padding-top:10px;
+		padding-bottom:10px;
+	}
+	h1, .h1{
+		font-size:22px;
+		font-weight:bold;
+	}
+	h3, .h3, .features .feat span {
+		font-size:20px;
+		text-align:center;
+	}
+	.testimonial .carousel-indicators li {
+		width:56px;
+		height:56px;
+	}
+	.testimonial .carousel-indicators .active{
+		width:58px;
+		height:58px;
+	}
+	.our_team .person:hover{
+		-webkit-transform: none;
+		-moz-transform:none;
+		-o-transform:none;
+		transform:none;
+	}
+	.subscribe .form-inline .form-control {
+    width: 308px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 5px;
+	}
+	.our-skills .skills .progress,
+	.our-skills .skills .progress-bar{
+    height: 26px;
+    margin-bottom: 12px;
+	line-height: 26px;
+    }
+	.footer .works-img{
+		text-align:center;
+	}
+	.footer .works img{
+		width:132px;
+		float:none;
+	}
+	.footer .center-articles{
+		text-align:center;
+	}
+	.footer .media{
+		width:170px;
+		display:inline-block;
+	}
+	.footer .media a{
+		width:100%:
+	}
+	.footer .navigate {
+    text-align: center;
+    min-width: 305px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+	.footer .social li{
+		margin-right:12px;
+		float:none;
+		display:inline-block;
+	}
+
+}
+/*==============={Small Screen}==================*/
+
+@media(min-width:768px) and (max-width:991px){
+	.footer .works img {
+    max-width: 158px;
+    margin-right: 5px;
+    margin-top: 5px;
+    display: inline-block;
+    }
+	.footer .social li{
+		float:none;
+		display:inline-block;
+	}
+	
+}
+/*==============={Meduim Screen}=================*/
+
+@media(min-width:992px) and (max-width:1199px){
+	.footer .works img {
+    max-width: 141px;
+    margin-right: 0px;
+    margin-top: 5px;
+    display: inline-block;
+	}
+	.footer .media{
+		margin-top:0px;
+	}
+	.footer .media a {
+    width: 133px;
+    }
+	.footer .media h4 {
+    margin-top: -12px;
+    }
+	
+}
+/*================{Large Screen}=================*/
+
+@media(max-width:1200px){
+	
+}
