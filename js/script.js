@@ -16,9 +16,10 @@ $(document).ready(function(){
 	/*=======Loading========*/
 		   var load = document.getElementsByClassName("loading")[0];
 window.onload = function(){
-	
+	setTimeout(function(){
 	load.style.opacity= "0";
 	load.style.display="none";
+	},600);
 
 }
 	/*=============Show and hide the scroll button =============*/
