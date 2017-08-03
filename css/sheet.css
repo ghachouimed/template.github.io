@@ -1,5 +1,4 @@
 body{padding-top:50px;}
-section, div{overflow:hidden;}
 /***-----------------------------------over write bootstrap-----------------------------------***/
 /******Carousel******/
 .carousel-caption{bottom:113px;background-color: rgba(0, 0, 0, 0.7)}
